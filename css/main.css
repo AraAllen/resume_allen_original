@@ -6,3 +6,29 @@ body {
     font-family: "Raleway", sans-serif;
     font-size: 16px;
 }
+
+h1{
+    font-family: "Playfair Display", serif;
+    font-size: 24px;
+}
+
+h2 {
+    font-family: "Playfair Display", serif;
+    font-size: 18px;
+}
+
+h3 {
+    font-family: "Playfair Display", serif;
+    font-size: 16px;
+}
+h4
+{
+    font-family: "Playfair Display", serif;
+    font-size: 14px; 
+}
+
+p
+{
+    font-family: "Raleway", sans-serif;
+    font-size: 14px; 
+}
